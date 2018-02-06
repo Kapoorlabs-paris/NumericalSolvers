@@ -10,13 +10,13 @@
 	</parent>
 
 	<groupId>net.kapoor</groupId>
-	<artifactId>Preprocessing</artifactId>
+	<artifactId>NumericalSolvers</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<name>PreprocessingSuite</name>
-	<description>Preprocessing and Segmentation Pipelines</description>
-	<url>https://github.com/BDDImaging/PreProcessingSuite</url>
-	<inceptionYear>2017</inceptionYear>
+	<name>NumericalSolvers</name>
+	<description>Solving up to quartic equations</description>
+	<url>https://github.com/kapoorlab/NumericalSolvers</url>
+	<inceptionYear>2018</inceptionYear>
 	<organization>
 		<name>BDDImaging</name>
 		<url>https://science.institut-curie.org/platforms/cell-and-tissue-imaging/photonics/contacts</url>
